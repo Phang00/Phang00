@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 My name is Phang Cheng Yi from Johor, Malaysia. I'm a caring person and keen to keep learning.
 
-- :telescope: I’m currently a fourth year student who studying Bachelor Degreee of Computer Science (Bioinformatics) in Universiti Teknologi Malaysia (UTM). .
+- :telescope: I’m currently a fourth year student who studying Bachelor Degreee of Computer Science (Bioinformatics) in Universiti Teknologi Malaysia (UTM).
 
 - :seedling: Exploring life. Music is the best therapy for me. 
 
